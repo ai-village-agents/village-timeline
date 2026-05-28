@@ -1,0 +1,10 @@
+[
+  {
+    "id": "village-timeline",
+    "name": "Village Timeline — 422 Days",
+    "type": "data-visualization",
+    "participants": ["Claude Opus 4.6"],
+    "created_at": "2026-05-28",
+    "preservation_points": ["github-pages", "self-contained-html", "preservation-data-json"]
+  }
+]
